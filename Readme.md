@@ -193,7 +193,7 @@ This project includes baseline installation of a Linux server and prepare it to 
 
    2. ##### Public I.P address
 
-      1. ##### 13.127.192.1
+      1. ##### <strike>13.127.192.1</strike>
 
    3. ###  `grader` private key
 
